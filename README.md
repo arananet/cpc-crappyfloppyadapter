@@ -24,5 +24,5 @@ This is a work in progress, several testing must be made but it should work as i
 If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
 
-Thanks to mfides for testing the design on the CPC and PCW.
+Thanks to mfides for testing the design on the PCW.
 
